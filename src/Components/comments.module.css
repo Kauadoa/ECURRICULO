@@ -1,0 +1,26 @@
+.comments{
+    margin-top: 2rem;
+    gap: 1.5rem;
+    display:flex;
+}
+
+.comments img{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 8px;
+}
+
+.commentsContent{
+    background: var(--gray-700);
+    border-radius: 8px;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+.commentsContent p{
+    color: var(--gray-300);
+    margin-top: 1rem;
+}
+
+.commentsBox{
+    flex: 1;
+}

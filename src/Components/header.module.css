@@ -1,0 +1,16 @@
+.header{
+    background-color: var(--gray-800);
+    justify-content: center;
+    display: flex;
+    height: 80px;
+    padding: 1.25rem 0;
+    color: aliceblue;
+    gap: 0.875rem;
+}
+
+.header img{
+    height: 2rem;
+}
+.header strong{
+    padding: 6px;
+}
